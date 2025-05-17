@@ -1,4 +1,4 @@
-cd /c/eclipse/ssafy-practice
+* cd /c/eclipse/ssafy-practice
 
 * 작업 순서
   1. 새로운 브랜치 생성 및 이동 => git checkout -b 브랜치 이름
